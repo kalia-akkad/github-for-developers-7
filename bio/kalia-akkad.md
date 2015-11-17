@@ -4,3 +4,4 @@
 - Nationality: Canada
 - Favourite Food: Nutella
 - Hobby: Watching EPL Games
+- Favourite Color: Pink
